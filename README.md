@@ -42,5 +42,5 @@ dashboards/ - Tableau/Power BI dashboards
 reports/ - Executive summary (PDF)
 
 ## 🔗 Links
-- Tableau Dashboard: [Link to Tableau Public]  
+- Tableau Dashboard: (https://public.tableau.com/views/Book1_17585285311590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 - Executive Summary: [PDF report]
